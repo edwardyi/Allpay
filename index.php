@@ -1,4 +1,3 @@
-@@ -0,0 +1,81 @@
 <?php 
 //from server.php
 header("Content-Type:text/html; charset=utf-8");
